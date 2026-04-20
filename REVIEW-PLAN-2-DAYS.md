@@ -18,11 +18,15 @@
 ### Memorize autopilot sentences — write by hand 3x each (20 min)
 - [ ] T1 informal opening: *Salut Mathieu, j'espère que tu vas bien ! Je t'écris pour...*
 - [ ] T1 formal opening: *Bonjour Madame Dupont, je me permets de vous écrire au sujet de...*
-- [ ] T2 opening: *Je tenais à vous raconter [X]. Ce fut une expérience enrichissante et inoubliable.*
+- [ ] T2 Frame A opening: *Je tenais à vous raconter [X]. Ce fut une expérience enrichissante et inoubliable.*
 - [ ] T2 time markers: *Dans un premier temps... Par la suite...*
 - [ ] T2 highlight: *Ce qui m'a le plus marqué, c'est...*
 - [ ] T2 reflection: *Cette expérience m'a rappelé à quel point...*
-- [ ] T2 closing: *J'ose espérer que l'avenir nous réserve encore de tels instants.*
+- [ ] T2 Frame A closing: *J'ose espérer que l'avenir nous réserve encore de tels instants.*
+- [ ] T2 Frame D opening: *Personnellement, je suis convaincu(e) que [position].*
+- [ ] T2 Frame D argument: *Mon expérience personnelle m'a appris que...*
+- [ ] T2 Frame D nuance: *Certes, [concession], mais [counter].*
+- [ ] T2 Frame E transition: *Personnellement, j'ai trouvé que cette expérience était...*
 - [ ] T3 P1: *Le sujet sur [X] oppose deux visions divergentes. D'un côté... De l'autre...*
 - [ ] T3 P2: *Personnellement, si [adj] que soient les [nom], on ne saurait ignorer... En effet... De surcroît...*
 - [ ] T3 P3: *Certes, [X] est/sont indéniable(s). Toutefois, encore faut-il reconnaître... En somme...*
@@ -50,7 +54,7 @@
 **Tâche 1 (15 min):**
 > Vous avez trouvé un emploi dans une autre ville. Écrivez un message à votre ami(e) pour lui annoncer la nouvelle et lui décrire votre futur logement.
 
-**Tâche 2 (20 min):**
+**Tâche 2 — Frame A narration (20 min):**
 > Vous avez participé à un cours de cuisine. Racontez cette expérience aux membres d'un site internet culinaire. Expliquez ce que vous avez le plus aimé.
 
 **Tâche 3 (25 min):**
@@ -84,14 +88,14 @@
 
 ### Speed drill: 2 extra Tâche 2s — 10 min each (30 min)
 
-**Prompt A (10 min):**
-> Vous venez de visiter un musée. Racontez cette expérience à vos amis.
+**Prompt A — Frame E mixed (10 min):**
+> Vous avez participé à une activité de bénévolat. Racontez votre expérience à vos amis et donnez votre avis sur ce type d'activité.
 
-**Prompt B (10 min):**
-> Vous avez adopté un animal de compagnie. Racontez cette expérience à vos amis.
+**Prompt B — Frame D opinion (10 min):**
+> Un ami vous dit qu'il veut arrêter ses études pour lancer une entreprise. Que pensez-vous de cette décision ? Écrivez-lui un message pour donner votre opinion.
 
-- [ ] Write Prompt A (use autopilot template, don't stop)
-- [ ] Write Prompt B (use autopilot template, don't stop)
+- [ ] Write Prompt A — Frame E (narration + opinion)
+- [ ] Write Prompt B — Frame D (pure opinion)
 - [ ] Quick self-check on both
 
 ---
@@ -105,7 +109,7 @@
 **Tâche 1 (15 min):**
 > Vous cherchez un(e) baby-sitter pour vos enfants. Vous écrivez une annonce en décrivant les conditions (horaires, lieu, rémunération, etc.).
 
-**Tâche 2 (20 min):**
+**Tâche 2 — Frame E mixed (20 min):**
 > Vous avez assisté à un concert. Écrivez un message à vos amis pour leur raconter cette expérience et leur donner votre avis.
 
 **Tâche 3 (25 min):**
@@ -166,10 +170,13 @@
 - [ ] T1 formal opening
 - [ ] T1 informal closing
 - [ ] T1 formal closing
-- [ ] T2 opening + emotional label
+- [ ] T2 opening + emotional label (Frame A)
 - [ ] T2 highlight sentence
 - [ ] T2 reflection sentence
-- [ ] T2 closing
+- [ ] T2 closing (Frame A)
+- [ ] T2 opinion opening (Frame D): *Je suis convaincu(e) que...*
+- [ ] T2 opinion support (Frame D): *Mon expérience m'a appris que...*
+- [ ] T2 narration-to-opinion transition (Frame E): *Personnellement, j'ai trouvé que...*
 - [ ] T3 P1 skeleton
 - [ ] T3 P2 skeleton
 - [ ] T3 P3 skeleton
@@ -177,8 +184,8 @@
 
 ### Final speed drill — no checking, just write (20 min)
 
-**Tâche 2 (10 min):**
-> Vous avez déménagé dans une nouvelle ville. Racontez votre première semaine à vos amis.
+**Tâche 2 — Frame D opinion (10 min):**
+> Courrier des lecteurs : « Faut-il interdire les voitures dans les centres-villes ? » Donnez votre opinion sur ce sujet.
 
 **Tâche 3 (10 min):**
 > Doc 1: Les voitures électriques réduisent la pollution et sont moins chères à entretenir.
