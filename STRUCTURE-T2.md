@@ -10,7 +10,15 @@
 |---|---|---|
 | Raconter une expérience | **A** | Voyage, fête, première semaine, compétition |
 | Problème / mésaventure | **B** | Réclamation, incident, mauvaise expérience |
-| Opinion / appréciation | **C** | Artiste préféré, ville, invention, activité |
+| Opinion / appréciation d'un sujet | **C** | Artiste préféré, ville, invention |
+| Opinion / pour ou contre | **D** | Bonne ou mauvaise idée ? Que pensez-vous ? Pourquoi avez-vous décidé ? |
+| Raconter + donner son avis | **E** | Racontez votre expérience ET donnez votre opinion |
+
+**How to tell D/E apart from A:**
+- If the prompt says *"donnez votre opinion/avis"* or *"que pensez-vous"* → **D or E**
+- If the prompt says *"bonne ou mauvaise idée"* → **D**
+- If the prompt says *"racontez + donnez votre opinion"* → **E**
+- If the prompt only says *"racontez"* → **A**
 
 ---
 
@@ -211,3 +219,225 @@ Hung
 | *stimulante et enrichissante* | Intellectual/challenging |
 | *conviviale et bienveillante* | Describing atmosphere |
 | *heureux et fier* | Personal achievement |
+
+---
+
+## FRAME D: Opinion / Pour ou contre (no narration required)
+
+### When to use
+The prompt asks: *"Que pensez-vous ?"*, *"Bonne ou mauvaise idée ?"*, *"Donnez votre opinion"*, *"Pourquoi avez-vous décidé de..."*
+
+### Opening (pick one)
+
+| Phrase | Usage |
+|---|---|
+| *C'est une question qui me tient particulièrement à cœur.* | Any opinion topic |
+| *Cette question mérite une réflexion approfondie.* | Serious/debatable topic |
+| *Personnellement, je suis convaincu(e) que [position].* | Direct opinion opener |
+| *À mon avis, [position]. Je m'explique.* | Simple and clear |
+
+### Structure
+
+```
+[P1 — State your position clearly]
+Personnellement, je suis convaincu(e) que [position].
+
+[P2 — Argument 1 + example]
+Tout d'abord, [première raison].
+En effet, [explication ou exemple personnel].
+
+[P3 — Argument 2]
+Par ailleurs, [deuxième raison].
+[Exemple ou conséquence].
+
+[P4 — Nuance + conclusion]
+Certes, [concession other side], mais [return to your point].
+En fin de compte, [conclusion + recommendation].
+```
+
+### Useful opinion phrases
+
+**Stating your position:**
+
+| Phrase | Strength |
+|---|---|
+| *Je suis convaincu(e) que...* | Strong |
+| *Il me semble que...* | Softer |
+| *Je pense sincèrement que...* | Personal |
+| *À mon sens, ...* | Elegant |
+| *De mon point de vue, ...* | Neutral |
+
+**Supporting your argument:**
+
+| Phrase | Usage |
+|---|---|
+| *En effet, ...* | Justifying your claim |
+| *D'autant plus que...* | Even more so because... |
+| *Il ne faut pas oublier que...* | Reminding of an important point |
+| *Mon expérience personnelle m'a appris que...* | Using personal evidence |
+| *J'ai pu constater par moi-même que...* | I witnessed firsthand that... |
+
+**Conceding then countering:**
+
+| Phrase | Usage |
+|---|---|
+| *Certes, [other side], mais...* | Quick concession |
+| *Je comprends que certains puissent penser que..., néanmoins...* | Acknowledging other view |
+| *Bien que [subjonctif], il n'en reste pas moins que...* | Formal concession (B2+) |
+
+**Concluding:**
+
+| Phrase | Usage |
+|---|---|
+| *En fin de compte, je reste persuadé(e) que...* | Strong final position |
+| *C'est pourquoi je recommanderais vivement de...* | With recommendation |
+| *Si je devais donner un conseil, ce serait de...* | Advice format |
+| *C'est une décision que je ne regrette absolument pas.* | For "I decided to..." topics |
+
+### Complete autopilot template (Frame D)
+
+```
+[Opening — position]
+Personnellement, je suis convaincu(e) que [position].
+
+[Argument 1 + personal example]
+Tout d'abord, [raison 1]. En effet, [explication].
+Mon expérience personnelle m'a appris que [evidence].
+
+[Argument 2]
+Par ailleurs, [raison 2]. D'autant plus que [renforcement].
+
+[Nuance + conclusion]
+Certes, [concession], mais [counter].
+En fin de compte, [conclusion]. Je recommanderais
+vivement de [conseil] !
+
+Amicalement, / À très vite,
+Hung
+```
+
+### Example topics this works for
+
+- *"Tout quitter pour partir en voyage : bonne ou mauvaise idée ?"*
+- *"Que pensez-vous de cette décision de changer de vie ?"*
+- *"Pourquoi avez-vous décidé de changer votre alimentation ?"*
+- *"Pourquoi avez-vous décidé de ne plus utiliser Instagram ?"*
+
+---
+
+## FRAME E: Raconter + Donner son avis (MIXED — most common!)
+
+### When to use
+The prompt says BOTH: *"racontez votre expérience"* AND *"donnez votre opinion/avis"*
+
+### Key rule
+**70% narration + 30% opinion.** Tell the story first, then give your verdict.
+
+### Opening (same as Frame A)
+
+| Phrase | Usage |
+|---|---|
+| *Je tenais à vous raconter [quoi] et à vous donner mon avis.* | Covers both requirements |
+| *Je tenais à partager avec vous [expérience] et vous dire ce que j'en pense.* | More natural |
+
+### Structure
+
+```
+[P1 — Context + emotional label]
+Je tenais à vous raconter [quoi]. Ce fut une expérience
+[adj] et [adj].
+
+[P2 — Narration (use Frame A beats)]
+Dans un premier temps, [action].
+[Description — imparfait].
+Par la suite, [action].
+Ce qui m'a le plus marqué, c'est [highlight].
+
+[P3 — Opinion + recommendation]
+Personnellement, j'ai trouvé que [opinion].
+En effet, [justification].
+Certes, [petit bémol], mais [positive counter].
+Je recommanderais vivement de [conseil] !
+```
+
+### Transition from narration to opinion
+
+| Phrase | Usage |
+|---|---|
+| *Personnellement, j'ai trouvé que cette expérience était...* | Simple transition |
+| *Si je devais donner mon avis, je dirais que...* | More formal |
+| *En ce qui concerne mon opinion, ...* | Explicit |
+| *Au-delà du récit, ce que j'en retiens, c'est que...* | Elegant (B2) |
+
+### Opinion phrases for specific contexts
+
+**For activities / events:**
+
+| Phrase | Usage |
+|---|---|
+| *Ce type d'activité est essentiel pour [reason].* | Recommending an activity |
+| *Je suis convaincu(e) que ce genre d'initiative mérite d'être encouragé.* | Supporting an initiative |
+| *C'est une expérience que tout le monde devrait vivre au moins une fois.* | Strong recommendation |
+
+**For places / travel:**
+
+| Phrase | Usage |
+|---|---|
+| *Cette destination vaut vraiment le détour.* | Worth the trip |
+| *Je n'hésiterais pas à y retourner.* | Would go back |
+| *C'est un endroit qui allie [X] et [Y] à la perfection.* | Balanced description |
+
+**For lifestyle choices (colocation, bénévolat, sport):**
+
+| Phrase | Usage |
+|---|---|
+| *Ce mode de vie m'a permis de développer [compétence].* | Personal growth |
+| *J'ai acquis de nouvelles compétences, notamment [X] et [Y].* | Specific gains |
+| *Malgré quelques inconvénients, les avantages l'emportent largement.* | Balanced but positive |
+| *Le respect mutuel est la clé pour que cette expérience soit réussie.* | Advice/lesson |
+
+### Complete autopilot template (Frame E)
+
+```
+[Opening]
+Je tenais à vous raconter [quoi] et à vous donner
+mon avis. Ce fut une expérience [adj] et [adj].
+
+[Narration — 2-3 beats]
+Dans un premier temps, [action — PC].
+[Description — imparfait].
+Par la suite, [action — PC].
+Ce qui m'a le plus marqué, c'est [highlight].
+
+[Opinion + conclusion]
+Personnellement, j'ai trouvé que [opinion].
+Certes, [petit bémol], mais [positive].
+Je recommanderais vivement de [conseil] !
+
+Amicalement, / À très vite,
+Hung
+```
+
+### Example topics this works for
+
+- *"Racontez votre expérience de colocation et donnez votre opinion"*
+- *"Racontez votre visite d'un pays et donnez votre opinion"*
+- *"Racontez votre participation à un événement et donnez votre avis"*
+- *"Racontez votre expérience de bénévolat et expliquez pourquoi c'est utile"*
+- *"Racontez votre soirée au concert et expliquez pourquoi vous avez aimé"*
+
+---
+
+## Summary: How to pick your frame in 10 seconds
+
+```
+Read the consigne → ask yourself:
+
+Only "racontez" ?                    → Frame A
+Problem / complaint ?                → Frame B  
+"Votre artiste/ville préféré(e)" ?   → Frame C
+"Que pensez-vous / bonne idée ?" ?   → Frame D
+"Racontez + donnez votre avis" ?     → Frame E
+
+Not sure? → Frame E (covers both narration and opinion)
+```
