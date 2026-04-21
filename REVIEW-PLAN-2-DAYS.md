@@ -12,38 +12,38 @@
 ## Session 1: Review & Memorize (1 hour)
 
 ### Read error files (20 min)
-- [ ] Read `french-grammar-weak-points.md` — focus on points 5, 15, 17, 18, 27
-- [ ] Read `french-prepositions-common-errors.md` — focus on: recommander de, se concentrer sur, détails sur, curiosité pour
+- [x] Read `french-grammar-weak-points.md` — focus on points 5, 15, 17, 18, 27
+- [x] Read `french-prepositions-common-errors.md` — focus on: recommander de, se concentrer sur, détails sur, curiosité pour
 
 ### Memorize autopilot sentences — write by hand 3x each (20 min)
-- [ ] T1 informal opening: *Salut Mathieu, j'espère que tu vas bien ! Je t'écris pour...*
-- [ ] T1 formal opening: *Bonjour Madame Dupont, je me permets de vous écrire au sujet de...*
-- [ ] T2 Frame A opening: *Je tenais à vous raconter [X]. Ce fut une expérience enrichissante et inoubliable.*
-- [ ] T2 time markers: *Dans un premier temps... Par la suite...*
-- [ ] T2 highlight: *Ce qui m'a le plus marqué, c'est...*
-- [ ] T2 reflection: *Cette expérience m'a rappelé à quel point...*
-- [ ] T2 Frame A closing: *J'ose espérer que l'avenir nous réserve encore de tels instants.*
-- [ ] T2 Frame D opening: *Personnellement, je suis convaincu(e) que [position].*
-- [ ] T2 Frame D argument: *Mon expérience personnelle m'a appris que...*
-- [ ] T2 Frame D nuance: *Certes, [concession], mais [counter].*
-- [ ] T2 Frame E transition: *Personnellement, j'ai trouvé que cette expérience était...*
-- [ ] T3 P1: *Le sujet sur [X] oppose deux visions divergentes. D'un côté... De l'autre...*
-- [ ] T3 P2: *Personnellement, si [adj] que soient les [nom], on ne saurait ignorer... En effet... De surcroît...*
-- [ ] T3 P3: *Certes, [X] est/sont indéniable(s). Toutefois, encore faut-il reconnaître... En somme...*
+- [x] T1 informal opening: *Salut Mathieu, j'espère que tu vas bien ! Je t'écris pour...*
+- [x] T1 formal opening: *Bonjour Madame Dupont, je me permets de vous écrire au sujet de...*
+- [x] T2 Frame A opening: *Je tenais à vous raconter [X]. Ce fut une expérience enrichissante et inoubliable.*
+- [x] T2 time markers: *Dans un premier temps... Par la suite...*
+- [x] T2 highlight: *Ce qui m'a le plus marqué, c'est...*
+- [x] T2 reflection: *Cette expérience m'a rappelé à quel point...*
+- [x] T2 Frame A closing: *J'ose espérer que l'avenir nous réserve encore de tels instants.*
+- [x] T2 Frame D opening: *Personnellement, je suis convaincu(e) que [position].*
+- [x] T2 Frame D argument: *Mon expérience personnelle m'a appris que...*
+- [x] T2 Frame D nuance: *Certes, [concession], mais [counter].*
+- [x] T2 Frame E transition: *Personnellement, j'ai trouvé que cette expérience était...*
+- [x] T3 P1: *Le sujet sur [X] oppose deux visions divergentes. D'un côté... De l'autre...*
+- [x] T3 P2: *Personnellement, si [adj] que soient les [nom], on ne saurait ignorer... En effet... De surcroît...*
+- [x] T3 P3: *Certes, [X] est/sont indéniable(s). Toutefois, encore faut-il reconnaître... En somme...*
 
 ### Flashcard spelling traps — write each word 5x (20 min)
-- [ ] apprentissage
-- [ ] responsabilité
-- [ ] notamment
-- [ ] expériences
-- [ ] dépendance
-- [ ] sociaux
-- [ ] privilégiés
-- [ ] environnementaux
-- [ ] années
-- [ ] célèbre
-- [ ] campagne
-- [ ] apprécié
+- [x] apprentissage
+- [x] responsabilité
+- [x] notamment
+- [x] expériences
+- [x] dépendance
+- [x] sociaux
+- [x] privilégiés
+- [x] environnementaux
+- [x] années
+- [x] célèbre
+- [x] campagne
+- [x] apprécié
 
 ---
 
